@@ -1,0 +1,130 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/kelly/Desktop/hack/main
+-- Eigen found (include: /usr/local/include/eigen3, version: 3.3.7)
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:880 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1002 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindBoost.cmake:1670 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:140 (find_package)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:310 (find_boost)
+  /usr/local/share/pcl-1.9/PCLConfig.cmake:545 (find_external_library)
+  CMakeLists.txt:3 (find_package)
+
+
+-- Boost version: 1.71.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   thread
+--   date_time
+--   iostreams
+--   serialization
+--   chrono
+--   atomic
+--   regex
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+** WARNING ** io features related to libusb-1.0 will be disabled
+-- looking for PCL_COMMON
+-- looking for PCL_OCTREE
+-- looking for PCL_IO
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kelly/Desktop/hack/main/cmake-build-debug
